@@ -1,7 +1,4 @@
 # MSRNet
-########################
-#      MSRNet Code     #
-########################
 
 * This is the sample code for 2017 cvpr paper [Instance-Level Salient Object Segmentation]
   by Guanbin Li, Yuan Xie, Liang Lin and Yizhou Yu
