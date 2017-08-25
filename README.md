@@ -6,7 +6,7 @@
   (http://hcp.sysu.edu.cn/instance-level-salient-object-segmentation)
 
 ## Contents ##
-* This code includes 
+This code includes 
  - 'deeplab-caffe': the Caffe toolbox for Multiscale Refinement Network (MSRNet) 
  - 'models_prototxts': pre-trained models and prototxts
  - 'code': codes to do testing
@@ -15,7 +15,7 @@
     - b.pre:  predicted results
 
 ## Usage Instructions ##
-* Please follow the instructions below to run the code.
+Please follow the instructions below to run the code.
 - Compile the `Caffe` and `matcaffe`  in the `deeplab-caffe` package. 
 - Put your own images in the `data/imgs` directory
 - Download the pretrained MSRNet-VGG models by running the script
@@ -28,7 +28,7 @@
 ```
 
 ## Citation ##
-* If you find this useful, please cite our work as follows:
+If you find this useful, please cite our work as follows:
 ```
 @inproceedings{MSRNet2017object,
   title={Instance-Level Salient Object Segmentation},
