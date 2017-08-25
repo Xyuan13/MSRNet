@@ -11,8 +11,8 @@
  - 'models_prototxts': pre-trained models and prototxts
  - 'code': codes to do testing
  - 'data': 
-    -a.imgs: source images to do saliency detection
-    -b.pre:  predicted results
+    - a.imgs: source images to do saliency detection
+    - b.pre:  predicted results
 
 ## Usage Instructions ##
 * Please follow the instructions below to run the code.
