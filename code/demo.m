@@ -15,7 +15,7 @@ model_id='VGG';
 % and the input data size would be changed from 512 to 320.
 % Since your image size may be larger than the input data size(320/512),
 % please set the suitable ratio to downsalple the image 
-% otherwise it can't be fed into the network.
+% otherwise you can't get the proper result.
 downsample_flag = true;
 ratio = 0.5;
 
