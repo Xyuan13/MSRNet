@@ -19,8 +19,7 @@
 * Please follow the instructions below to run the code.
 - Compile the `Caffe` and `matcaffe`  in the `deeplab-caffe` package. 
 - Put your own images in the `data/imgs` directory
-<<<<<<< HEAD
--Download the pretrained MSRNet-VGG models  by running the script
+- Download the pretrained MSRNet-VGG models  by running the script
  ./models_prototxts/get_msrnet-vgg_model.sh
 - Run 'code/demo.m' to generate saliency map
 
