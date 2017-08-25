@@ -1,6 +1,6 @@
 # MSRNet
 
-* This is the sample code for 2017 cvpr paper [Instance-Level Salient Object Segmentation]
+* This is the sample code of saliency detection for 2017 cvpr paper [Instance-Level Salient Object Segmentation]
   by Guanbin Li, Yuan Xie, Liang Lin and Yizhou Yu
 * This code is tested on MATLAB 2014b on Ubuntu14.04
 * For more information, please visit our project page 
