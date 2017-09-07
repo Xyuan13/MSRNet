@@ -23,7 +23,7 @@ ratio = 0.5;
 useGPU = true;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 param.protoFile = fullfile(models_root, sprintf('MSRNet-%s-test.prototxt',model_id));
-param.modelFile = fullfile(models_root, sprintf('MSRNet-%s.prototxt',model_id));
+param.modelFile = fullfile(models_root, sprintf('MSRNet-%s.caffemodel',model_id));
 
 % init net
 caffe.reset_all();
