@@ -1,4 +1,5 @@
 cd ./models_prototxts
 echo 'Download model and prototxt ------------------'
-wget http://hcp.sysu.edu.cn/wp-content/uploads/2017/09/MSRNet-VGG_models_prototxts.zip
+wget -c --refer=https://pan.baidu.com/s/1pL5esgr -O MSRNet-VGG.zip "https://nj02all02.baidupcs.com/file/bc277eba1b2b3cb170f0549ea599b0cf?bkt=p3-00000a73d380c90ede5b95eaafd296f79571&fid=945094103-250528-682023567852152&time=1509607765&sign=FDTAXGERLQBHSK-DCb740ccc5511e5e8fedcff06b081203-3r2kMrxrnCOgnLwQDxbDncRYrYM%3D&to=70&size=303763189&sta_dx=303763189&sta_cs=1&sta_ft=zip&sta_ct=0&sta_mt=0&fm2=MH,Yangquan,Anywhere,,zuid-holland,any&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00000a73d380c90ede5b95eaafd296f79571&sl=74252367&expires=8h&rt=sh&r=791768257&mlogid=7088780562532221627&vuk=945094103&vbdid=1457765319&fin=MSRNet-VGG.zip&fn=MSRNet-VGG.zip&rtype=1&iv=1&dp-logid=7088780562532221627&dp-callid=0.1.1&hps=1&tsl=434&csl=434&csign=zgobwdnSwT5UUDssxTIRIEFU9fg%3D&so=0&ut=5&uter=4&serv=0&uc=277421072&ic=3794639689&ti=42c2e66164287fda24970d49ea5c2155542bb32f89f0cb42305a5e1275657320&by=themis"
+echo 'Successfully download the models and prototxts ------------------'
 cd ../
