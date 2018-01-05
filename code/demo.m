@@ -1,7 +1,8 @@
 % Attention
 % This code has been tested successfully on GPU GTX-1080 with 12g memory
-% If your GPU have not enough memory and the code causes an "out of meory"
-% error, your can change the input_dim from 512 to 320 in the protoFile
+% If your GPU does not have enough memory and the code causes an "out of meory" error, 
+% your can change the input_dim from 512 to 320 in the protoFile, but it will
+% lead to accuracy loss of the predictions
 
 % matcaffe path
 matcaffePath = '../deeplab-caffe/matlab/';
