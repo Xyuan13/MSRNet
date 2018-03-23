@@ -3,7 +3,7 @@
   by Guanbin Li, Yuan Xie, Liang Lin and Yizhou Yu
 * This code is tested on MATLAB 2014b on Ubuntu14.04
 * For more information, please visit our project page 
-  (http://hcp.sysu.edu.cn/instance-level-salient-object-segmentation)
+  (http://www.sysu-hcp.net/instance-level-salient-object-segmentation)
 
 ## Contents ##
 This code includes 
